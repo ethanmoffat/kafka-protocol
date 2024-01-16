@@ -1,4 +1,4 @@
-module kafka-proto
+module github.com/ethanmoffat/kafka-protocol
 
 go 1.20
 
